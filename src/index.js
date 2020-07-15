@@ -9,7 +9,7 @@ sayHello();
 
 class Greeter {
   constructor(name) {
-    this.name = name
+    this.name = name;
   }
 
   sayHello() {
