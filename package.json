@@ -1,0 +1,9 @@
+{
+  "name": "04-Webpack-From-Scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
+}
